@@ -1,5 +1,8 @@
-[
+[{
+		"instagramSplashLogo": "https://raw.githubusercontent.com/berkegul/ChatAppReq/main/instalogo.svg"
+	},
 	{
-	"instagramSplashLogo":"https://raw.githubusercontent.com/berkegul/ChatAppReq/main/instalogo.svg"
+		"kullaniciAdisoyadi": "",
+		"kullanıcıMesaj": ""
 	}
 ]
